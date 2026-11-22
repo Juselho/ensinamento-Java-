@@ -15,4 +15,6 @@ public class Main {
 
         System.out.println("Media diaria: R$ " + media);
     }
-}
+}System.out.println("Total vendido: R$ " + total);
+
+System.out.println("Media diaria: R$ " + media);
