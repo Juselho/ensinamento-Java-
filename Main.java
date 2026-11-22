@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        double[] vendas = {568.60, 100.00, 450.00, 950.00, 600.00};
+        double[] vendas = {200.00, 100.00, 450.00, 950.00, 600.00};
 
         double total = 0;
 
